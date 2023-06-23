@@ -1,0 +1,11 @@
+{
+  "chartsData":[
+    {"tittle":"冰箱","num":1454},
+    {"tittle":"洗衣机","num":562},
+    {"tittle":"电视机","num":432},
+    {"tittle":"微波炉","num":741},
+    {"tittle":"烤箱","num":1563},
+    {"tittle":"空调","num":1025},
+    {"tittle":"洗碗机","num":1579}   
+  ]
+}
