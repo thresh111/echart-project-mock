@@ -1,11 +1,11 @@
 {
   "chartsData":[
-    {"tittle":"冰箱","num":1454},
-    {"tittle":"洗衣机","num":562},
-    {"tittle":"电视机","num":432},
-    {"tittle":"微波炉","num":741},
-    {"tittle":"烤箱","num":1563},
-    {"tittle":"空调","num":1025},
-    {"tittle":"洗碗机","num":1579}   
+    {"name":"冰箱","value":1454},
+    {"name":"洗衣机","value":562},
+    {"name":"电视机","value":432},
+    {"name":"微波炉","value":741},
+    {"name":"烤箱","value":1563},
+    {"name":"空调","value":1025},
+    {"name":"洗碗机","value":1579}   
   ]
 }
